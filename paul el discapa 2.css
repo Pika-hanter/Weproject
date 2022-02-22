@@ -1,0 +1,38 @@
+#pol1{
+background-color:green;
+}
+body{
+background-image:url(1.jpeg);
+}
+#foto{
+height:400px;
+    width:450px;
+}
+#D{
+text-align:center;
+        width:200px;
+    background-color:green;
+    margin-top:-415px;
+    margin-right:370px;
+
+}
+
+#trailer{
+background-color:green;
+    width:200px;
+    padding:100px;
+    margin-top:-300px;
+    margin-left:800px;
+}
+
+#como-ser-pol{
+margin-left:500px;
+    background-color:green;
+    margin-top:40px;
+}
+
+h2{
+background-color:green;
+    width:600px;
+    margin-left:500px;
+}
